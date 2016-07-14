@@ -1,9 +1,18 @@
-layout_spectrum: 0.6768074440769851
-typography_spectrum: 0.9081713173072785
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3427352900616825
   brandStrength: 0.2631904964800924
-  lightness: 0.4500496448017657
-  saturation: 0.34273529006168246
   rhythmicContrast: 0.5035496158525348
   brandColors:
     - '#5A1F00'
@@ -11,4 +20,7 @@ color:
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
+  lightness: 0.4500496448017657
+typography_spectrum: 0.2142857
+layout_spectrum: 1
 name: Other Wise
