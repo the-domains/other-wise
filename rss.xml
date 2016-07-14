@@ -4,8 +4,15 @@
         <description><![CDATA[Other Wise]]></description>
         <link>http://davidwwilliams.nz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 03:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2016 04:50:49 GMT</lastBuildDate>
         <atom:link href="http://davidwwilliams.nz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Writing.]]></title>
+            <description><![CDATA[<article><h1>Writing.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6225b7ed-3200-44c3-b943-4b9dc954c448.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6225b7ed-3200-44c3-b943-4b9dc954c448.jpg</link>
+            <guid isPermaLink="false">5fca54e2-ca2f-47a0-ad60-ff1e26f98373</guid>
+            <pubDate>Thu, 14 Jul 2016 04:50:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test post]]></title>
             <description><![CDATA[<article><h1>Test post</h1><p>Testing</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/296507b8-4c25-40b7-bb37-552e360e00ff.jpg"></article>]]></description>
