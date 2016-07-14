@@ -1,40 +1,40 @@
-name: Other Wise
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2142857
+name: Other Wise
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.3427352900616825
+  brandStrength: 0.2631904964800924
+  rhythmicContrast: 0.5035496158525348
   brandColors:
     - '#5A1F00'
     - '#D1570D'
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-  brandStrength: 0.2631904964800924
   lightness: 0.4500496448017657
-  saturation: 0.3427352900616825
-  rhythmicContrast: 0.5035496158525348
-purpose: []
+typography_spectrum: 0.2142857
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.8488806
+analytics:
+  twitter: null
+  google: null
+  facebook: null
